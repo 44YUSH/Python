@@ -1,6 +1,6 @@
 s = set()
 
-# set.add(el) adds an element
+# set.add(el) adds an element.
 s.add("Krishn")
 s.add(2)
 s.add("Radha")
@@ -9,7 +9,7 @@ s.add(7)
 
 print(s)
 
-# set.remove(el) deletes an element
+# set.remove(el) deletes an element.
 s1=s.copy()
 
 s1.remove(3)
@@ -23,7 +23,7 @@ s2.clear()
 print(s2)
 print(len(s2))
 
-# set.pop() removes a random value
+# set.pop() removes a random value.
 s3=s.copy()
 
 s3.pop()
