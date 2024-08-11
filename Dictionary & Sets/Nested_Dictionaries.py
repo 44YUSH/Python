@@ -9,7 +9,3 @@ student={
 print(student["name"])
 print(student["score"]["maths"])
 print(len(student))
-
-# We can typecast data into different forms.
-
-print(list(student.keys()))
