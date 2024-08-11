@@ -29,3 +29,8 @@ print(pairs[1])
 
 print(data.get("Score"))
 
+# data.update(newData)
+NewData={"grade":"A"}
+NewData={"Name":"Krishn"}   # It will change the original "name".
+data.update(NewData)
+print(data)
