@@ -28,3 +28,13 @@ s3=s.copy()
 
 s3.pop()
 print(s3)
+
+# set.union (newSet) combines both set values and returns new.
+s4=s.copy()
+newSet={2, 4, "Radha"}
+
+print(s4.union(newSet))
+
+# set.intersection(newSet) combines common values and returns new.
+
+print(s4.intersection(newSet))
