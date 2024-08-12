@@ -6,3 +6,8 @@ while i<=10:
     list.append(sq)
     i+=1
 print(list)
+
+tup=()
+tup=list.copy()
+print(tup())
+search = int(input("Enter the no. to search in the list : "))

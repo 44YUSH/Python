@@ -7,7 +7,7 @@ print(tup[1])
 # tup[0] = 10 is not possible
 
 tup1=()
-print(tup1())     # It's an Empty Tuple.
+print(tup1)     # It's an Empty Tuple.
 
 tup2=(1,)
-print(tup2())
+print(tup2)
