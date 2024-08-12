@@ -4,4 +4,7 @@ i=0
 while i < len(tup):
     if(tup[i]==x):
         print("Found at IDX : ", i)
+    else:
+        print("Number is NOT in the tuple.")
+        break
     i += 1
