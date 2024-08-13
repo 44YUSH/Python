@@ -2,15 +2,17 @@
 # We use FUNCTIONs in code to avoid writing of same codes again and again.
 # We use it to reduce REDUNDENCY. 
 
-# def func_name (a , b):
-#     algorithms
-#     return value
-# func_name (arg a , arg b)  ---> Function call
+
+# defination func_name (parameter a , parameter b):
+#            algorithms
+#            return value
+# func_name (argument a , argument b)  ---> Function call
+
 
 # Example : 
-
 x = int(input("Enter 1st num : "))
 y = int(input("Enter 2nd num : "))
+
 def calcSum(a, b):
     result = a + b
     print("Sum of both num is : ",result)
