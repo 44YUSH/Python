@@ -3,9 +3,9 @@
 # We use it to reduce REDUNDENCY. 
 
 
-# defination func_name (parameter a , parameter b):
+# defination func_name (parameter? a , parameter? b):
 #            algorithms
-#            return value
+#            return? value
 # func_name (argument a , argument b)  ---> Function call
 
 
