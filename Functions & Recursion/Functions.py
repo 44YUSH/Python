@@ -1,5 +1,6 @@
 # Functions are group of statements that performs a specific task.
 # We use FUNCTIONs in code to avoid writing of same codes again and again.
+# We use it to reduce REDUNDENCY. 
 
 # def func_name (a , b):
 #     algorithms
