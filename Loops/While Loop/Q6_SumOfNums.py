@@ -10,7 +10,7 @@ while i <= n:
 print("Using WHILE loop : ",sum1)
 
 # For Loop : 
-sum2=0
-for j in range(1, n+1):
-    sum2+=j
-print("Using  FOR  loop : ",sum2)
+# sum2=0
+# for j in range(1, n+1):
+#     sum2+=j
+# print("Using  FOR  loop : ",sum2)
