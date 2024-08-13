@@ -10,8 +10,9 @@ for i in range(1, n+1):
 print("Using  FOR  loop : ",Factorial)
 
 # WHILE loop :
-j=1
-factorial=1
-while j<=n:
-    factorial *= j
-print("Using WHILE loop : ",factorial)
+# j=1
+# factorial=1
+# while j<=n:
+#     factorial *= j
+#     j+=1
+# print("Using WHILE loop : ",factorial)
