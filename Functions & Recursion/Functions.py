@@ -19,7 +19,7 @@ def calcSum(a, b):
     return result
 calcSum(x, y)
 
-print("----------")
+print("-------------------------")
 
 # Example 2 : Here, in this fun, neither there is INPUT nor RETURN.
 # Hence, they are OPTIONAL '?'.
