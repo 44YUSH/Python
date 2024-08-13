@@ -1,4 +1,4 @@
-# Search for a number X in this tuple using loop.
+# Search for a number X in this tuple using loop. It's called LINEAR SEARCH.
 tup=(1,4,9,16,25,36,49,64,81,100)
 X = int(input("Enter the number to SEARCH in the tuple : "))
 idx=0
