@@ -3,7 +3,6 @@
 usd=int(input("Enter in Dollar : "))
 
 def USDtoINR(s):
-    print("USD value : ",s)
-    print("INR value : ",usd*83)
+    print(s,"USD =",usd*83,"INR")
 
 USDtoINR(usd)
