@@ -1,5 +1,4 @@
 # OPEN :
-
-f = open("demo.txt", "r")
-data = f.read()
+f=open("demo.txt", "r")
+data=f.read()
 print(data)
